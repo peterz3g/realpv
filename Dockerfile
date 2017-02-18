@@ -17,7 +17,7 @@ pip install --upgrade pip && \
 pip install lxml==3.6.1 && \
 pip install Logbook==1.0.0 && \
 pip install requests==2.6.0 && \
-pip install  && \
+pip install demjson==2.2.4 && \
 pip install -r /code/requirements.txt && \
 apt-get clean && \
 apt-get autoclean && \
