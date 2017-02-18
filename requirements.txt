@@ -27,5 +27,4 @@ wechat-sdk==0.6.4
 wechatpy==1.2.13
 xmltodict==0.9.2
 easytrader==0.7.5
-TA-Lib
 tushare==0.5.0
